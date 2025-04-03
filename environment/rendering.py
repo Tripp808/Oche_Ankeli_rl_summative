@@ -1,8 +1,5 @@
 """
 Hospital Navigation Environment Evaluation Script
-Created by: Emmanuel-Begati
-Date: 2025-04-03 16:52:42
-
 This script evaluates trained DQN and PPO models in the hospital navigation environment
 for both delivery and emergency modes.
 """
