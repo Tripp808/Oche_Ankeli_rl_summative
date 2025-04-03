@@ -1,0 +1,26 @@
+# Core Requirements
+gymnasium>=0.28.1
+stable-baselines3[extra]==2.0.0
+torch>=2.0.0
+numpy>=1.24.0
+pygame>=2.1.0
+tensorboard>=2.12.0
+
+# I used these for visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+opengl>=0.1.0
+PyOpenGL>=3.1.0
+PyOpenGL-accelerate>=3.1.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+ipython>=8.12.0
+jupyter>=1.0.0
+
+# My custom hospital environment
+git+https://github.com/Tripp808/maternal_care.git
+
+# Optional though (for advanced visualization)
+panda3d>=1.10.10  # Only if you wanna add 3D rendering later
