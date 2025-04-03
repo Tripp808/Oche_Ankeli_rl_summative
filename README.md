@@ -109,3 +109,20 @@ python evaluate/evaluation.py --agent ppo --episodes 20
 # Visualize environment with trained agent
 python environment/rendering.py --agent ppo --render True
 ```
+
+## Future Work
+
+- Implement hierarchical reinforcement learning for multi-floor navigation
+- Integrate real-time hospital staff tracking data
+- Personalize navigation parameters based on patient mobility profiles
+- Expand the action space to include waiting actions
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- OpenAI Gym for the environment framework
+- Stable Baselines3 for RL algorithm implementations
+- African Leadership University for computing resources
