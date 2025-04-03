@@ -129,7 +129,7 @@ def print_header():
     """Print a fancy header for the evaluation script"""
     print("\n" + "="*80)
     print(f"MATERNAL CARE NAVIGATION MODEL EVALUATION".center(80))
-    print(f"User: Emmanuel-Begati | Date: 2025-04-03 16:52:42".center(80))
+    print(f"User: Oche-Ankeli | Date: 2025-04-03 16:52:42".center(80))
     print("="*80)
 
 def main():
